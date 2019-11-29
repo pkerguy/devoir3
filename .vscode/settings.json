@@ -1,0 +1,4 @@
+{
+    "java.checkstyle.version": "8.26",
+    "java.checkstyle.configuration": "/sun_checks.xml"
+}
